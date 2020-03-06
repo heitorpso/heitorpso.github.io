@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>
+            Minha Primeira Pagina
+        </title>
+    </head>
+    <body>
+        <a href="file:///C:/Users/ulab37em/Desktop/index.html"><b>CLIQUE AQUI</b></a>
+        <h1>
+            Introducao    
+        </h1>
+        <p>
+            Sejam bem vindos ao pagina2
+        </p>
+        <h2>
+            Motivacao
+        </h2>
+        <p>
+            Agora vou mostrar o texto em <b>negrito</b> e em <i>italico</i>
+        </p>
+    </body>
+</html>
